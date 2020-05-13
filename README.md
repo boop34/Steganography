@@ -1,7 +1,6 @@
 # STEGANOGRAPHY
 
-[Steganography](https://en.wikipedia.org/wiki/St
-eganography) is the practice of  concealing a file, message, image, or video within another file, message, image, or video. [Cryptography](https://en.wikipedia.org/wiki/Cryptography) is the practice of protecting the contents of a message alone, steganography is concerned both with concealing the fact that a secret message is being sent and its contents.
+[Steganography](https://en.wikipedia.org/wiki/Steganography) is the practice of  concealing a file, message, image, or video within another file, message, image, or video. [Cryptography](https://en.wikipedia.org/wiki/Cryptography) is the practice of protecting the contents of a message alone, steganography is concerned both with concealing the fact that a secret message is being sent and its contents.
 
 ## Hiding an image within another image
 
